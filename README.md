@@ -11,3 +11,6 @@ This is a chatbot powered by Vite + React + Python + AWS.
 - Fetch Weather: `weather` and `in`
 - Generate a joke: `joke`
 - Other questions
+
+## Integration
+Please follow installation from https://www.npmjs.com/package/@sky_thien_vo/my-chatbot-ui
